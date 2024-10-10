@@ -1,5 +1,5 @@
 # zum-m
-# 👋 Hello, I'm [zum-m]!
+# 👋 Hello, I'm zum-m!
 
 ![Header Image](https://yourimageurl.com/header.png)
 
@@ -30,7 +30,7 @@ A brief explanation of this project and its significance.
 
 ## 👨‍💻 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zum-m&show_icons=true&theme=radical)
 
 ## 🏅 Certifications and Awards
 - [Certification Name](https://linktocertification.com) from [Institution Name]  
