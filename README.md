@@ -16,6 +16,10 @@
 
 ![zum-m's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zum-m&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zum-m&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zum-m&theme=radical)
+
+
 
 ## 🔗 Connect with Me
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/tomatom_125)
