@@ -13,12 +13,11 @@
 <!-- Add more projects -->
 ## 👨‍💻 GitHub Stats
 
-![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=zum-m&repo=eatas_selftest&theme=radical)
+![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=dec-eatas&repo=dec_project&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dec-eatas&repo=dec_project&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
 
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark)
-
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=dec-eatas&repo=dec_project&theme=react-dark)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zum-m&layout=compact)
