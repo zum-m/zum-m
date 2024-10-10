@@ -18,17 +18,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zum-m&layout=compact)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zum-m&theme=radical)
 
+![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=zum-m&repo=eatas_selftest&theme=radical)
+
 # 📊 Organization Repositories Stats
 
 ## 🌟 Featured Repositories
 
 ![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=dec-eatas&repo=dec_project&theme=radical)
-![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=dec-eatas&repo=dec_project&theme=radical)
-
-## 🔠 Language Usage in dec_proj
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dec-eatas&repo=dec_project&layout=compact&theme=radical)
-
 
 ## 🔗 Connect with Me
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/tomatom_125)
