@@ -13,16 +13,21 @@
 <!-- Add more projects -->
 ## 👨‍💻 GitHub Stats
 
-![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=dec-eatas&repo=dec_project&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dec-eatas&repo=dec_project&layout=compact&theme=radical)
-
-
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=dec-eatas&repo=dec_project&theme=react-dark)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zum-m&layout=compact)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zum-m&theme=radical)
 
+# 📊 Organization Repositories Stats
+
+## 🌟 Featured Repositories
+
+![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=dec-eatas&repo=dec_project&theme=radical)
+![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=dec-eatas&repo=dec_project&theme=radical)
+
+## 🔠 Language Usage in dec_proj
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dec-eatas&repo=dec_project&layout=compact&theme=radical)
 
 
 ## 🔗 Connect with Me
