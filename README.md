@@ -11,10 +11,9 @@
 
 
 <!-- Add more projects -->
-
 ## 👨‍💻 GitHub Stats
 
-![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=zum-m&repo=eataslab&theme=radical)
+![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=zum-m&repo=eatas_selftest&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
 
