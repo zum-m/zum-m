@@ -14,7 +14,12 @@
 
 ## 👨‍💻 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zum-m&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=zum-m&repo=eataslab&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark)
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zum-m&layout=compact)
